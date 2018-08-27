@@ -211,7 +211,7 @@ Pour ajouter des images avec une légende :
 > cf ./README.md
 
 
-#### Image avec légende
+#### Image avec une légende
 
 ![Texte alternatif si image non trouvée](img/image1.png "Le titre/légende de l'image")
 
